@@ -6,5 +6,6 @@ public class GitTest2 {
         System.out.println("args = " + args);
         System.out.println("args = " + args);
         System.out.println("args = " + args);
+        System.out.println("args = " + "ssh");
     }
 }
